@@ -1490,22 +1490,36 @@ https://lara1.azureedge.net/d/RCServer14/ondemand/CHGOPDT07EP16.mp4?attachment=t
 #EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/legendas_tv_20190908154639.png" group-title="CHICAGO PD",7ª Temp. Ep.17
 https://lara1.azureedge.net/d/RCServer14/ondemand/CHGOPDT07EP17.mp4?attachment=true
 
-################Goliath 2ª Temporada#################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",2ª Temp. Ep. 01 - De Ratos E Homens 
+#########################Em Defesa de Jacob 1ª TEMPORADA###########################
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8144ofaD+6L.jpg" group-title="Em Defesa de Jacob ",1ª Temp. Ep.01
+https://lara1.azureedge.net/d/RCServer14/ondemand/EMDFSDJCBT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8144ofaD+6L.jpg" group-title="Em Defesa de Jacob ",1ª Temp. Ep.02
+https://lara1.azureedge.net/d/RCServer14/ondemand/EMDFSDJCBT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8144ofaD+6L.jpg" group-title="Em Defesa de Jacob ",1ª Temp. Ep.03
+https://lara1.azureedge.net/d/RCServer14/ondemand/EMDFSDJCBT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8144ofaD+6L.jpg" group-title="Em Defesa de Jacob ",1ª Temp. Ep.04
+https://lara1.azureedge.net/d/RCServer14/ondemand/EMDFSDJCBT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8144ofaD+6L.jpg" group-title="Em Defesa de Jacob ",1ª Temp. Ep.05
+https://lara1.azureedge.net/d/RCServer14/ondemand/EMDFSDJCBT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8144ofaD+6L.jpg" group-title="Em Defesa de Jacob ",1ª Temp. Ep.06
+https://lara1.azureedge.net/d/RCServer14/ondemand/EMDFSDJCBT01EP06.mp4
+
+################Goliath 1ª Temporada#################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",1ª Temp. Ep. 01 - De Ratos E Homens 
 https://lara1.azureedge.net/d/RCServer07/ondemand/GOLTHT01EP01.mp4?attachment=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",2ª Temp. Ep. 02 - Orgulho E Preconceito 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",1ª Temp. Ep. 02 - Orgulho E Preconceito 
 https://lara1.azureedge.net/d/RCServer07/ondemand/GOLTHT01EP02.mp4?attachment=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",2ª Temp. Ep. 03 - Game On 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",1ª Temp. Ep. 03 - Game On 
 https://lara1.azureedge.net/d/RCServer07/ondemand/GOLTHT01EP03.mp4?attachment=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",2ª Temp. Ep. 04 - É O Donald 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",1ª Temp. Ep. 04 - É O Donald 
 https://lara1.azureedge.net/d/RCServer07/ondemand/GOLTHT01EP04.mp4?attachment=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",2ª Temp. Ep. 05 - Cubra Sua Bunda 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",1ª Temp. Ep. 05 - Cubra Sua Bunda 
 https://lara1.azureedge.net/d/RCServer07/ondemand/GOLTHT01EP05.mp4?attachment=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",2ª Temp. Ep. 06 - Linha De Fogo 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",1ª Temp. Ep. 06 - Linha De Fogo 
 https://lara1.azureedge.net/d/RCServer07/ondemand/GOLTHT01EP06.mp4?attachment=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",2ª Temp. Ep. 07 - Bela E A Fera 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",1ª Temp. Ep. 07 - Bela E A Fera 
 https://lara1.azureedge.net/d/RCServer07/ondemand/GOLTHT01EP07.mp4?attachment=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",2ª Temp. Ep. 08 - Cidadãos Unidos 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EUu1tRk.png" group-title="Goliath",1ª Temp. Ep. 08 - Cidadãos Unidos 
 https://lara1.azureedge.net/d/RCServer07/ondemand/GOLTHT01EP08.mp4?attachment=true
 ###############Goliath 2ª Temporada#################
 #EXTINF:-1 tvg-logo="https://m.minhaserie.com.br/images/highlights/000/042/129/40076.jpg" group-title="Goliath",2ª Temp. Ep. 01 - La Mano 
@@ -3373,18 +3387,18 @@ https://lara1.azureedge.net/d/RCServer14/ondemand/OUTLNDRT05EP07.mp4?attachment=
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.impawards.com/tv/posters/outlander_ver11.jpg?resize=575%2C863" group-title="Outlander",5ª Temp. Ep. 08 - Últimas Palavras Famosas - Em Breve
 https://lara1.azureedge.net/d/RCServer14/ondemand/OUTLNDRT05EP08.mp4?attachment=true
 
-#########################Peaky Blinders 2ª TEMPORADA###########################
-#EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/53/3d/legendas_tv_20130917093058.jpg" group-title="Peaky Blinders",2ª Temp. Ep.01
+#########################Peaky Blinders 1ª TEMPORADA###########################
+#EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/53/3d/legendas_tv_20130917093058.jpg" group-title="Peaky Blinders",1ª Temp. Ep.01
 https://lgbsd11164pbtdg.belugacdn.link/lanadelrey/tvshows/peakyblinders/s01e01-dub-1080p.mp4
-#EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/53/3d/legendas_tv_20130917093058.jpg" group-title="Peaky Blinders",2ª Temp. Ep.02
+#EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/53/3d/legendas_tv_20130917093058.jpg" group-title="Peaky Blinders",1ª Temp. Ep.02
 https://lgbsd11164pbtdg.belugacdn.link/lanadelrey/tvshows/peakyblinders/s01e02-dub-1080p.mp4
-#EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/53/3d/legendas_tv_20130917093058.jpg" group-title="Peaky Blinders",2ª Temp. Ep.03
+#EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/53/3d/legendas_tv_20130917093058.jpg" group-title="Peaky Blinders",1ª Temp. Ep.03
 https://lgbsd11164pbtdg.belugacdn.link/lanadelrey/tvshows/peakyblinders/s01e03-dub-1080p.mp4
-#EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/53/3d/legendas_tv_20130917093058.jpg" group-title="Peaky Blinders",2ª Temp. Ep.04
+#EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/53/3d/legendas_tv_20130917093058.jpg" group-title="Peaky Blinders",1ª Temp. Ep.04
 https://lgbsd11164pbtdg.belugacdn.link/lanadelrey/tvshows/peakyblinders/s01e04-dub-1080p.mp4
-#EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/53/3d/legendas_tv_20130917093058.jpg" group-title="Peaky Blinders",2ª Temp. Ep.05
+#EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/53/3d/legendas_tv_20130917093058.jpg" group-title="Peaky Blinders",1ª Temp. Ep.05
 https://lgbsd11164pbtdg.belugacdn.link/lanadelrey/tvshows/peakyblinders/s01e05-dub-1080p.mp4
-#EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/53/3d/legendas_tv_20130917093058.jpg" group-title="Peaky Blinders",2ª Temp. Ep.06
+#EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/53/3d/legendas_tv_20130917093058.jpg" group-title="Peaky Blinders",1ª Temp. Ep.06
 https://lgbsd11164pbtdg.belugacdn.link/lanadelrey/tvshows/peakyblinders/s01e06-dub-1080p.mp4
 #########################Peaky Blinders 2ª TEMPORADA###########################
 #EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/4c/fe/legendas_tv_20140918142125.jpg" group-title="Peaky Blinders",2ª Temp. Ep.01
@@ -3438,6 +3452,20 @@ https://lgbsd11164pbtdg.belugacdn.link/lanadelrey/tvshows/peakyblinders/s05e04-d
 https://lgbsd11164pbtdg.belugacdn.link/lanadelrey/tvshows/peakyblinders/s05e05-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/legendas_tv_20190825232319.png" group-title="Peaky Blinders",5ª Temp. Ep.06
 https://lgbsd11164pbtdg.belugacdn.link/lanadelrey/tvshows/peakyblinders/s05e06-dub-720p.mp4
+
+#########################Penny Dreadful: City of Angels 1ª TEMPORADA###########################
+#EXTINF:-1 tvg-logo="https://canaismax.com/img/series/882cb6592309487c67da470689331149.png" group-title="Penny Dreadful: City of Angels ",1ª Temp. Ep.01
+https://lara1.azureedge.net/d/RCServer14/ondemand/PNYDRDFCTOFANGLS01EP01.mp4
+#EXTINF:-1 tvg-logo="https://canaismax.com/img/series/882cb6592309487c67da470689331149.png" group-title="Penny Dreadful: City of Angels ",1ª Temp. Ep.02
+https://lara1.azureedge.net/d/RCServer14/ondemand/PNYDRDFCTOFANGLS01EP02.mp4
+#EXTINF:-1 tvg-logo="https://canaismax.com/img/series/882cb6592309487c67da470689331149.png" group-title="Penny Dreadful: City of Angels ",1ª Temp. Ep.03
+https://lara1.azureedge.net/d/RCServer14/ondemand/PNYDRDFCTOFANGLS01EP03.mp4
+#EXTINF:-1 tvg-logo="https://canaismax.com/img/series/882cb6592309487c67da470689331149.png" group-title="Penny Dreadful: City of Angels ",1ª Temp. Ep.04
+https://lara1.azureedge.net/d/RCServer14/ondemand/PNYDRDFCTOFANGLS01EP04.mp4
+#EXTINF:-1 tvg-logo="https://canaismax.com/img/series/882cb6592309487c67da470689331149.png" group-title="Penny Dreadful: City of Angels ",1ª Temp. Ep.05
+https://lara1.azureedge.net/d/RCServer14/ondemand/PNYDRDFCTOFANGLS01EP05.mp4
+#EXTINF:-1 tvg-logo="https://canaismax.com/img/series/882cb6592309487c67da470689331149.png" group-title="Penny Dreadful: City of Angels ",1ª Temp. Ep.06
+https://lara1.azureedge.net/d/RCServer14/ondemand/PNYDRDFCTOFANGLS01EP06.mp4
 
 #########################Prison Break  2ª TEMPORADA###########################
 #EXTINF:-1 tvg-logo="http://i.legendas.tv/poster/214x317/09/93/tt455275.jpg" group-title="Prison Break ",2ª Temp. Ep.01
