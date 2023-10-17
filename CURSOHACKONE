@@ -1,5 +1,5 @@
 #EXTM3
-#############################lista#################
+#############################CONECTIVIDADE-IP#################
 #EXTINF:-1 tvg-logo"https://cdn-1.webcatalog.io/catalog/hackone/hackone-icon-filled-256.png?v=1695105934278" group-title="M3 - Conectividade IP",Introdução ao módulo
 https://embed-cloudfront.wistia.com/deliveries/a33802ff7037293a3e903b35fc211bd7e08735bb.m3u8
 #EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",3.1.a - O que é roteamento?
@@ -26,22 +26,22 @@ https://embed-cloudfront.wistia.com/deliveries/7154ac782757fe2105496d09ef899fb0d
 https://embed-cloudfront.wistia.com/deliveries/da2b6cc1058fbc90d92a4c0959aa9f0498a39500.m3u8
 #EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",3.3.f - SVI
 https://embed-cloudfront.wistia.com/deliveries/fd5933ba2bd227819734fe628f0e06e8a962f4a3.m3u8
-#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",
-
-#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",
-
-#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",
-
-#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",
-
-#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",
-
-#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",
-
-#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",
-
-#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",
-
+#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",3.4.a - Introdução ao OSPF
+https://embed-cloudfront.wistia.com/deliveries/ee9d584eef41e8a3a7974e49939e084cd5c332c2.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",3.4.b - Tipos de pacotes e adjacência
+https://embed-cloudfront.wistia.com/deliveries/fd2a26cf42a5792efc7b57be645ce5c2f85528dc.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",3.4.c - Eleição de DR/BDR e Router-ID
+https://embed-cloudfront.wistia.com/deliveries/87150b53c52c603468ec1bbd0f6a0282086eea27.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",3.4.d - OSPF Network Types e Tabelas
+https://embed-cloudfront.wistia.com/deliveries/37d61b9487e52a6dde1af8e956595912b5818f6a.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",3.4.e - Metrica do OSPF :: Custo
+https://embed-cloudfront.wistia.com/deliveries/5cf31a610fa05d640d5383ee113d4cb21b3a590e.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",3.4.f - Implementando OSPF
+https://embed-cloudfront.wistia.com/deliveries/bf3596bdca13910e7f1f89b633ee4baa06a68a98.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",3.4.g - Implementando OSPFv3 :: Bônus
+https://embed-cloudfront.wistia.com/deliveries/9395adb4a748b60b1145979ffb031545f7ea7822.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",3.5.a - HSRP
+https://embed-cloudfront.wistia.com/deliveries/974f3c6a8fe805cb28626b413d36b80bf5e44b6f.m3u8
 #EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",
 
 #EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",
