@@ -1,6 +1,6 @@
 #EXTM3
 
-#############################FUNDEAMENTOS DE REDE#############
+#############################M1-FUNDEAMENTOS DE REDE#############
 #EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.0 - O que iremos cobrir no módulo 1 do CCNA?
 https://embed-cloudfront.wistia.com/deliveries/d8ea1fa4c0df0c3a5b58c733e74d1ba5bc76f0cf.m3u8
 #EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.1.a - Como tudo começou
@@ -75,9 +75,50 @@ https://embed-cloudfront.wistia.com/deliveries/587d70553125d415516a445a096d7453b
 https://embed-cloudfront.wistia.com/deliveries/1bcd1644f5be9f2792a6464c27e64aafacff3c45.m3u8
 #EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",Configurações básicas do Switch
 https://embed-cloudfront.wistia.com/deliveries/a0ffe4ed0b75e05e18f3afea29e732ba296b0bc6.m3u8
-#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",
-#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",
-#############################CONECTIVIDADE-IP#################
+
+##################################M2-NETWORK ACCESS###############################################
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.0 - O que iremos cobrir nesse módulo
+https://embed-cloudfront.wistia.com/deliveries/bd6d22cd610da3b50af6ac96485e237d93c94557.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.1.a - Entendendo e configurando Vlans
+https://embed-cloudfront.wistia.com/deliveries/4ad1802f792b86bce1302881dc8c80bd97cbbef6.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.2.a - Entendendo e configurando Trunk
+https://embed-cloudfront.wistia.com/deliveries/83e1374756dce45e0b3c3b60632569d2ae238ccc.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.2.b - Vlan Trunk Protocol [VTP] e Vlan Nativa
+https://embed-cloudfront.wistia.com/deliveries/354854156a9a06a5eb26b6497ac185d5b0c0965c.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.2.c - DTP - Dynamic Trunk Protocol
+https://embed-cloudfront.wistia.com/deliveries/98c733f9160bec0258398ab4624e627d70c261a9.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.3.a - CDP e LLDP - Discovery Protocols
+https://embed-cloudfront.wistia.com/deliveries/0af44a9850c0f60d4606b28c9f99476af6d16cec.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.4.a - Layer 2 Etherchannel
+https://embed-cloudfront.wistia.com/deliveries/8bd5f9b8087576834a5880eab58677737b9350d4.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.4.b - Layer 3 Etherchannel
+https://embed-cloudfront.wistia.com/deliveries/c546c3ccffa4be2395b1307dd2c6967d1cf0068c.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.5.a - Porque usar Spanning-Tree
+https://embed-cloudfront.wistia.com/deliveries/7576870ac9ac5f7b9bd507fddac2b08f30997683.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.5.b - Como o protocolo funciona
+https://embed-cloudfront.wistia.com/deliveries/283d49adfa0c8d44ddbe4220a206968a304f305b.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.5.c - STP Port States e Cálculo do Root Bridge
+https://embed-cloudfront.wistia.com/deliveries/62aa36c90d72c4a8f7ceab16fac5ddcfa11c52ce.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.5.d - Implementando Spanning-Tree
+https://embed-cloudfront.wistia.com/deliveries/f0dda55dce83a64511336888e1c80520b96aa04f.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.5.e - Mecanismos de proteção ao BPDU
+https://embed-cloudfront.wistia.com/deliveries/8cce41c160bedf70478117a59b6066b46da5fcfe.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.5.f - Rapid Spanning-Tree Protocol RSTP
+https://embed-cloudfront.wistia.com/deliveries/baa1084ca452ffeab73ea71fcfed6ddc769b0b08.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.6.a - Wireless - Tipos de Implementação
+https://embed-cloudfront.wistia.com/deliveries/7d19115687cb8ac68824e3f0bafcc127a1cb5371.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.6.b - Wireless - Tipos de AP e Antenas
+https://embed-cloudfront.wistia.com/deliveries/2cc3fe4eead7eb92354b7fc10d1508bdb0a6bf53.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.7.a - WLAN - Interfaces e Portas
+https://embed-cloudfront.wistia.com/deliveries/203bb6232f35590ebfc0b1fb4946a9d3faf1514f.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.8.a - Acessando WLC via Service Port
+https://embed-cloudfront.wistia.com/deliveries/0899ab985d0240a0d91268499a2b64650c59a0aa.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.8.b - Acessando a WLC via SSH, TELNET, HTTP e HTTPS
+https://embed-cloudfront.wistia.com/deliveries/4416ccfd18b42b60add5bc1165455b63d643730d.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",2.9.a - Configurando WLAN
+https://embed-cloudfront.wistia.com/deliveries/54a6edf11ff229e367e9cfbe79b11be0a23f3ab7.m3u8
+
+#############################M3-CONECTIVIDADE-IP#################
 #EXTINF:-1 tvg-logo"https://cdn-1.webcatalog.io/catalog/hackone/hackone-icon-filled-256.png?v=1695105934278" group-title="M3 - Conectividade IP",Introdução ao módulo
 https://embed-cloudfront.wistia.com/deliveries/a33802ff7037293a3e903b35fc211bd7e08735bb.m3u8
 #EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",3.1.a - O que é roteamento?
@@ -120,3 +161,20 @@ https://embed-cloudfront.wistia.com/deliveries/bf3596bdca13910e7f1f89b633ee4baa0
 https://embed-cloudfront.wistia.com/deliveries/9395adb4a748b60b1145979ffb031545f7ea7822.m3u8
 #EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",3.5.a - HSRP
 https://embed-cloudfront.wistia.com/deliveries/974f3c6a8fe805cb28626b413d36b80bf5e44b6f.m3u8
+
+############################################################################################
+############################################################################################
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",
+#EXTINF:-1 tvg-logo"" group-title="M2 - Network Access",
