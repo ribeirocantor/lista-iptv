@@ -1,4 +1,82 @@
 #EXTM3
+
+#############################FUNDEAMENTOS DE REDE#############
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.0 - O que iremos cobrir no módulo 1 do CCNA?
+https://embed-cloudfront.wistia.com/deliveries/d8ea1fa4c0df0c3a5b58c733e74d1ba5bc76f0cf.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.1.a - Como tudo começou
+https://embed-cloudfront.wistia.com/deliveries/7cc7aba7226c5b936f83a986875de5c88e269ca0.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.1.b - Componentes de Rede
+https://embed-cloudfront.wistia.com/deliveries/02479c34bf087d508c4643f85e4ad602e2c3b82d.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.1.c - Impacto nos Componentes de Infra Estrutura
+https://embed-cloudfront.wistia.com/deliveries/26793b2d25bb622de9f3d5792c8770243c1761aa.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.1.d - Camada OSI - Parte 1
+https://embed-cloudfront.wistia.com/deliveries/faddecd7066b4ad4e6be0eddd48fa22455e2e676.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.1.e - Camada OSI - Parte 2
+https://embed-cloudfront.wistia.com/deliveries/4fa2ab3d857ecd6c72b8540201e13c70781bbd60.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.1.f - Camada OSI - Parte 3
+https://embed-cloudfront.wistia.com/deliveries/18e79d310a4544f51ea6205e4e7939bba407f07d.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.2.a - Topologia de Rede - Parte 1
+https://embed-cloudfront.wistia.com/deliveries/d8b46a9d2b76ed9a5eb41b9a3c1b74802a784af3.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.2.b - Topologia de Rede - Parte 2
+https://embed-cloudfront.wistia.com/deliveries/6c3001bc76cfef4161ca947835765fe3bc949739.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.3.a - PoE
+https://embed-cloudfront.wistia.com/deliveries/8ed0ac3a5cf82d2a748a2399103082c25f896ecc.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.4.a - Padrões, CSMA-CD e issues identificados na camada fisica
+https://embed-cloudfront.wistia.com/deliveries/b74fd915456f66f3da0ec81ec3ee681af9b812de.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.5.a - IPv4, TCP e UDP
+https://embed-cloudfront.wistia.com/deliveries/50504256176082608032f66813bb9af342bd6729.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.6.a - Binário & Decimal
+https://embed-cloudfront.wistia.com/deliveries/a72085636b6c55cbc97f8ba53e92bebd67be6eba.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.6.b - Classes de IP e Máscara
+https://embed-cloudfront.wistia.com/deliveries/c2af921373bd59087a72983c9539ecdb8d7b19ee.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.6.c - Configuração e Verificação
+https://embed-cloudfront.wistia.com/deliveries/1923080eb818e377937dce5daee4ce8245156207.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.6.d - Subnetting em IPv4 - Parte 1
+https://embed-cloudfront.wistia.com/deliveries/54158dee3ef117323fb190aa4244c632ba69433b.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.6.e - Subnetting em IPv4 - Parte 2
+https://embed-cloudfront.wistia.com/deliveries/93382c33faab13e598c20938f4cb55d1529a2eb5.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.6.f - Subnetting em IPv4 - Parte 3
+https://embed-cloudfront.wistia.com/deliveries/098248cd95319b35122216b97d3859682b1e4e2e.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.6.g - VLSM e CIDR
+https://embed-cloudfront.wistia.com/deliveries/84500850aae3b4ce780856fa1953f52ef46186d5.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.6.h - IPv4 Sumarização
+https://embed-cloudfront.wistia.com/deliveries/122b2ec8efe7d5b74f467dfde462b66f74fd6376.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.7.a - Endereço público, privado e reservado
+https://embed-cloudfront.wistia.com/deliveries/cb3eec71e6ef5d028cebd28d3072dc2b35fad7c2.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.8.a - IPv6 - A história e representação de endereço
+https://embed-cloudfront.wistia.com/deliveries/6140eaa22a226b7eb9768ade6af047035a48d01d.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.8.b - IPv4 e IPv6 Comparando cabeçalhos
+https://embed-cloudfront.wistia.com/deliveries/383ec3ba2fd2d26e9d6d24535b48327c9e8720aa.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.8.c - IPv6 Interface-ID
+https://embed-cloudfront.wistia.com/deliveries/ffab335c29acbfa8012ec8aee672eb4966029bea.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.9.a - IPv6 - Tipos de endereço
+https://embed-cloudfront.wistia.com/deliveries/2b4a1a84d149a9057571c2737493ca177434bf06.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.11.a - SSID e Criptografia
+https://embed-cloudfront.wistia.com/deliveries/8c2700145429fdb213fda456522d8f7b692b2ae0.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.11.b - RF Power e DB
+https://embed-cloudfront.wistia.com/deliveries/fafc4d4bc98c92121b57429592c90d2cc7753bfe.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.12.a - Virtualização - Parte1
+https://embed-cloudfront.wistia.com/deliveries/0e122a934160f6f3480da5da831ffcf6e0d6585b.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.12.b - Virtualização - Parte2
+https://embed-cloudfront.wistia.com/deliveries/b761eaabb71c21c61a4e46f760e3e48974388d4e.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",Servidor de laboratório :: Comunidade Cisco
+https://embed-cloudfront.wistia.com/deliveries/cdbd42148d419a6bacd5ce78361d7428d25450cc.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.13.a - Conceitos de Switch e Ethernet - Parte 1
+https://embed-cloudfront.wistia.com/deliveries/cec7dd3cb8d7d513ffccbcb048bf87cb3b123c93.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.13.b - Conceitos de Switch e Ethernet - Parte 2
+https://embed-cloudfront.wistia.com/deliveries/969a84868cef2610ad5e6498f3b9116c49f8cc1d.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.13.c - Introdução ao IOS - Parte 1
+https://embed-cloudfront.wistia.com/deliveries/67cefb219f04962eae84362a91006763e694cf1f.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.13.d - Introdução ao IOS - Parte 2
+https://embed-cloudfront.wistia.com/deliveries/e6601dc12a4e285d1f5474e518686749ab79f322.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.13.e - Introdução ao IOS - Parte 3
+https://embed-cloudfront.wistia.com/deliveries/587d70553125d415516a445a096d7453bbacc3d3.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",1.13.f - Introdução ao IOS - Parte 4
+https://embed-cloudfront.wistia.com/deliveries/1bcd1644f5be9f2792a6464c27e64aafacff3c45.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",Configurações básicas do Switch
+https://embed-cloudfront.wistia.com/deliveries/a0ffe4ed0b75e05e18f3afea29e732ba296b0bc6.m3u8
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",
+#EXTINF:-1 tvg-logo"" group-title="M1 - Fundamentos de Rede",
 #############################CONECTIVIDADE-IP#################
 #EXTINF:-1 tvg-logo"https://cdn-1.webcatalog.io/catalog/hackone/hackone-icon-filled-256.png?v=1695105934278" group-title="M3 - Conectividade IP",Introdução ao módulo
 https://embed-cloudfront.wistia.com/deliveries/a33802ff7037293a3e903b35fc211bd7e08735bb.m3u8
@@ -42,10 +120,3 @@ https://embed-cloudfront.wistia.com/deliveries/bf3596bdca13910e7f1f89b633ee4baa0
 https://embed-cloudfront.wistia.com/deliveries/9395adb4a748b60b1145979ffb031545f7ea7822.m3u8
 #EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",3.5.a - HSRP
 https://embed-cloudfront.wistia.com/deliveries/974f3c6a8fe805cb28626b413d36b80bf5e44b6f.m3u8
-#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",
-
-#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",
-
-#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",
-
-#EXTINF:-1 tvg-logo"" group-title="M3 - Conectividade IP",
